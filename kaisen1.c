@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-printf("satoro gojo");
+printf("satoro-g");
 }
